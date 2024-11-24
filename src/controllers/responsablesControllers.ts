@@ -299,7 +299,7 @@ class ResponsablesControllers {
 
             Por favor, haz clic en el siguiente enlace para verificar tu correo electrónico:
 
-            https://poetic-sawine-b8ac9a.netlify.app//verificar-correo/${token} 
+            https://controlac-8eff8.web.app/verificar-correo/${token} 
             Recuerda que tu nombre de usuario es: ${nombUsuario}
             Si no solicitaste esta verificación, por favor ignora este correo.
             
